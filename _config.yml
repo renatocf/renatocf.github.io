@@ -1,18 +1,21 @@
+# Jekyll Uno configurations
+# ==========================
+
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: 'Renato Cordeiro'
+description: 'Programmer - Researcher - Geek'
+url: 'https://renatocf.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Renato Cordeiro Ferreira'
+  email: renatocf@ime.usp.br
+  twitter_username: renatocf42
+  facebook_username: RenatoCordeiroFerreira
+  github_username:  renatocf
+  linkedin_username:  renatocordeiroferreira
 
 defaults:
   -
@@ -20,7 +23,7 @@ defaults:
       path: ''
       type: 'posts'
     values:
-        layout: 'post'
+      layout: 'post'
 
 # Build settings
 destination: _site
